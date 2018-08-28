@@ -1,4 +1,4 @@
-# Football_Regression
+# Football Regression
 
 This is my first data science project, where I am trying to predict NFL lifetime achievement using college stats. 
 
