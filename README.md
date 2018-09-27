@@ -1,6 +1,6 @@
 # Football Regression
 
-This is my first data science project, where I am trying to predict NFL lifetime achievement using college stats. 
+This is my first Metis project, where I am trying to predict NFL lifetime achievement using college stats. 
 
 For my final presentation, see [here](https://github.com/leaferickson/Football_Regression/blob/master/Football%20Regression%20Analysis.pdf).
 
